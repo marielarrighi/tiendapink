@@ -1,0 +1,96 @@
+[{
+    "id": 1, 
+    "nombre": "Botella Motivacional", 
+    "tipo": "Botellas", 
+    "foto": "./img/botellamotivacional.jpg", 
+    "precio": 5000, 
+    "descripcion": "Botella Motivacional 2 Litros, 4 Motivos."
+},
+{
+    "id": 2, 
+    "nombre": "Botellas de Niños", 
+    "tipo": "Botellas", 
+    "foto": "./img/botellasnniños1.jpg", 
+    "precio": 3800, 
+    "descripcion": "Botellas / Cantiploras 180Ml de niños."
+},
+{
+    "id": 3, 
+    "nombre": "Neceser", 
+    "tipo": "Neceser", 
+    "foto": "./img/neceser.JPG", 
+    "precio": 2500, 
+    "descripcion": "Neceser transparante Washbag."
+},
+{
+    "id": 4, 
+    "nombre": "Cantiploras de niños", 
+    "tipo": "Botellas", 
+    "foto": "./img/botellasniños.jpg", 
+    "precio": 3500, 
+    "descripcion": "Botellas / Cantiploras 150Ml de niños."
+},
+{
+    "id": 5, 
+    "nombre": "Dispenser x 2", 
+    "tipo": "Dispenser", 
+    "foto": "./img/disperse.JPG", 
+    "precio": 990, 
+    "descripcion": "Dispenser x 2 para Shampoo y Acondicionador."
+},
+{
+    "id": 6, 
+    "nombre": "Platos Infantiles", 
+    "tipo": "Platos", 
+    "foto": "./img/platosinfantiles.jpg", 
+    "precio": 2500, 
+    "descripcion": "Platos infantiles de Melamina. 4 Motivos diferentes."
+},
+{
+    "id": 7, 
+    "nombre": "Mochila Plegable", 
+    "tipo": "Mochila", 
+    "foto": "./img/mochilaplegable.jpg", 
+    "precio": 7500, 
+    "descripcion": "Mochila Plegable color pastel."
+},
+{
+    "id": 8, 
+    "nombre": "Riñonera", 
+    "tipo": "Riñonera",
+    "foto": "./img/cinturonantirobo.jpg", 
+    "precio": 2500, 
+    "descripcion": "Cinturon Antirobo. Riñonera."
+},
+{
+    "id": 9, 
+    "nombre": "Botella Motivacional", 
+    "tipo": "Botellas", 
+    "foto": "./img/botellamotivacional.jpg", 
+    "precio": 5000, 
+    "descripcion": "Botella Motivacional 2 Litros, 4 Motivos."
+},
+{
+    "id": 10,
+    "nombre": "Maceta / Lapicero ", 
+    "tipo": "otros", 
+    "foto": "./img/macetalapicero.jpg", 
+    "precio": 1250, 
+    "descripcion": "Maceta / Lapicero de Ceramica. Animalitos."
+},
+{
+    "id": 11,
+    "nombre": "Set de bowls", 
+    "tipo": "Set de bowls",     
+    "foto": "./img/setdebowls.jpg", 
+    "precio": 800, 
+    "descripcion": "Set de bowls de melamina. color pastel."
+},
+{
+    "id": 12,
+    "nombre": "Mini Mate", 
+    "tipo": "otros",    
+    "foto": "./img/minimate.jpg", 
+    "precio": 950, 
+    "descripcion": "Mini Mate de colores."
+}]
